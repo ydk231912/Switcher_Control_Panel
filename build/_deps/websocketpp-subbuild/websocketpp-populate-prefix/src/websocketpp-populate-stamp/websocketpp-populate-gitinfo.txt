@@ -1,0 +1,3 @@
+repository='/home/seeder/dev/thirdparty_repos/zaphoyd/websocketpp'
+module=''
+tag='origin'
